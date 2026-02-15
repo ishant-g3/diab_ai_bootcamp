@@ -1,5 +1,10 @@
-pandas
-scikit-learn
-numpy
-streamlit
-
+# Update Streamlit to a modern version
+streamlit>=1.35.0
+# Keep your data science tools
+pandas==3.0.0
+numpy==2.4.2
+scikit-learn==1.8.0
+# Let Altair stay compatible
+altair>=5.0.0
+# UI tools
+rich==14.3.2
